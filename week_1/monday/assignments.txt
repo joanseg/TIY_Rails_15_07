@@ -7,7 +7,7 @@ Find a job site like CW Jobs, search for Ruby jobs
 
 Code exercises
 Make a new Ruby file for for each problem.
-So that you keep the solutions for the tasks.
+This will allow you to keep the solutions for all of the tasks.
 
 3. 
 Ask the user to input 2 numbers and display the sum
@@ -29,6 +29,8 @@ Enter a number: 4
 3
 4
 
+Hint: You can use a while loop for this, the an index variable that increments
+
 6
 Ask the user for a 3 digit number
 If the user enters an invalid number (one that is not 3 digits) then re-ask the question until a valid number is entered.
@@ -44,6 +46,8 @@ Enter a number: 4
 22
 333
 4444
+
+Hint: You could use a nested while loop for this - a loop in a loop
 
 8. 
 Ask the user for a number
@@ -78,7 +82,9 @@ Enter a number: 4
 2
 4
 
-11.
+Hint: Google how to tell if a number is even in Ruby
+
+11. *Bonus*
 Ask the user for a word (string)
 Then determine if that word is a palindrome 
 https://en.wikipedia.org/wiki/Palindrome
