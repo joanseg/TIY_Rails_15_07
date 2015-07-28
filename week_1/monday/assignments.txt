@@ -6,7 +6,7 @@ Find a job site like CW Jobs, search for Ruby jobs
 - see what makes you nervous about applying
 
 Code exercises
-Make a new Ruby for for each problem.
+Make a new Ruby file for for each problem.
 So that you keep the solutions for the tasks.
 
 3. 
