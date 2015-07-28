@@ -13,7 +13,7 @@ This will allow you to keep the solutions for all of the tasks.
 Ask the user to input 2 numbers and display the sum
 Hint: 
 print “Enter a number:”
-number = gets.chomp.to_i # or user gets.strip.to_i
+number = gets.chomp.to_i # or use gets.strip.to_i
 
 4.
 Ask the user for a number and display if that number was larger than 10 or not
