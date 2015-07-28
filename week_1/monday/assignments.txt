@@ -29,7 +29,7 @@ Enter a number: 4
 3
 4
 
-Hint: You can use a while loop for this, the an index variable that increments
+Hint: You can use a while loop for this, and an 'index' variable that increments
 
 6
 Ask the user for a 3 digit number
