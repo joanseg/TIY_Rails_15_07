@@ -90,11 +90,11 @@ Then determine if that word is a palindrome
 https://en.wikipedia.org/wiki/Palindrome
 
 e.g.
-Enter a word: “dad”
+Enter a word: "dad"
 That is a palindrome
 
-Enter a word: “abc”
+Enter a word: "abc"
 That is not a palindrome
 
-Enter a work: “Bob”
+Enter a word: "Bob"
 That is a palindrome
