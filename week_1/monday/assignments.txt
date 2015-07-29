@@ -1,5 +1,8 @@
 1. 
 Find out what Ruby\Rails communities are in London
+- http://lrug.org/
+- http://www.meetup.com/ruby-hacknight-london/
+- http://www.meetup.com/Ruby-Business-UK/
 
 2. 
 Find a job site like CW Jobs, search for Ruby jobs
